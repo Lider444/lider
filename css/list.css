@@ -1,0 +1,39 @@
+body{
+    padding: 0%;
+    margin: 0%;
+}
+.menuu {
+    height: 100px;
+    background: blue;
+
+}
+.menuu ul {
+    float: right;
+    padding-right: 10%;
+}
+.menuu ul li{
+    float: left;
+    list-style: none;
+    margin-top: 5%;
+}
+.menuu ul li a {
+    text-decoration: none;
+    padding-right: 25px;
+    padding-left: 15px;
+    color: white;
+    margin-top: 20%;
+    border:  1px black solid ;
+    padding: 5px;
+    margin: 10px;
+
+
+}
+
+.menuu ul li a:hover{
+    background-color: white;
+    color: blue;
+}
+img {
+    margin-left: 5%;
+    margin-top: 1%;
+}
